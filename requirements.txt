@@ -25,3 +25,6 @@ python-dateutil==2.8.2
 six==1.16.0
 Werkzeug==2.2.2
 zipp==3.8.1
+distribute==0.6.24
+gunicorn==0.14.2
+requests==0.11.1
